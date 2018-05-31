@@ -44,6 +44,10 @@ Then open the notebook `SupervisedLearning.ipynb` and we're ready to get coding.
 
 ## Resources:
 
+ * [Numpy](www.numpy.org/)
+ * [Pandas](pandas.pydata.org/)
+ * [Scikit-learn](scikit-learn.org/)
+
 ### Used in this workshop:
 
 1. https://www.datacamp.com/community/tutorials/kaggle-machine-learning-eda
